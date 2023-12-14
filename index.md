@@ -12,12 +12,6 @@
     郑重提醒用户注意本协议中免除应用拥有方的责任和限制用户权利的条款，请用户仔细阅读，自主考虑风险。未成年人应在法定监护人的陪同下阅读本协议。
 本协议的任何条款无论因何种原因无效或不具可执行性，其余条款仍有效，对双方具有约束力。
 
-广东美嘉欣创新科技股份有限公司
-联系我们：
-广东省汕头市澄海区莱芜经济开发区莱美工业区兴业南路
-电话：86-754-85510278
-传真：86-754-85510878
-
 Privacy agreement
 
 Before becoming a user, please read this User Agreement (hereinafter referred to as the "Agreement") carefully to ensure that you fully understand the terms of this Agreement. Please read carefully and choose to accept or not accept this agreement. Your login, use and other actions will be regarded as acceptance of this Agreement. This Agreement sets out the rights and obligations between the Application and user with respect to the Application Software Services (hereinafter referred to as the "Services"). "User" means an individual who logs in and uses the Service. This Agreement can be updated at any time by the APP owner. The updated terms will replace the original terms once they are published without further notice. Users can check the latest version of terms in this APP. After the terms of the agreement are modified, if the user does not accept the modified terms, please stop using the services provided by the application immediately. If the user continues to use the services, the user is deemed to have accepted the modified agreement.
@@ -46,8 +40,8 @@ Users are solemnly reminded to pay attention to the provisions in this agreement
 
 If any provision of this Agreement is invalid or unenforceable for any reason, the remaining provisions shall remain valid and binding upon both parties.
 
-Guangdong Meijiaxin Innovation Technology Co., Ltd
-Contact us:
-Xingye South Road, Laimei Industrial Zone, Laiwu Economic Development Zone, Chenghai District, Shantou City, Guangdong Province
-Phone: 86-754-85510278
-Fax: 86-754-85510878
+广东美嘉欣创新科技股份有限公司
+联系我们：
+广东省汕头市澄海区莱芜经济开发区莱美工业区兴业南路
+电话：86-754-85510278
+传真：86-754-85510878
